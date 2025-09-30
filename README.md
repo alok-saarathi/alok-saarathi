@@ -55,7 +55,7 @@ I specialize in designing RESTful APIs, optimizing backend performance, and ensu
 
 ## 📂 Projects
 
-> Below are a few highlighted projects. Full list is available in my [GitHub repositories](https://github.com/your_username).
+> Full list is available in my [GitHub repositories](https://github.com/your_username).
 <!--
 | Project | Description |
 |--------|-------------|
