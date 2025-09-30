@@ -4,7 +4,7 @@
 **alok-saarathi/alok-saarathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://github.com/alok-saarathi/alok-saarathi/edit/main/README.md
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,14 +20,21 @@ Here are some ideas to get you started:
 
 # Hi there, I’m Alok 👋
 
-I’m a **Django Backend Developer** @ Saarathi-finanace with a passion for building scalable, robust web applications and APIs. I have experience working in production environments, designing RESTful services, and optimizing performance.
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+I’m a **Django Backend Developer** with expertise in building scalable, secure, and efficient web applications.  
+I specialize in designing RESTful APIs, optimizing backend performance, and ensuring robust database interactions.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300"/>
-</div>
+</td>
+<td width="40%" align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack & Tools
 
