@@ -72,6 +72,7 @@ I specialize in designing RESTful APIs, optimizing backend performance, and ensu
 - 💼 LinkedIn: [linkedin.com/in/alok-choudhary-9465401ab/](https://www.linkedin.com/in/alok-choudhary-9465401ab/)  
 - 🌐 Portfolio: [alok-nine.vercel.app/](https://alok-nine.vercel.app/)  
 
-## 📈 GitHub Stats & Activity
 
-<!--> (You can embed dynamic stats using tools like GitHub Readme Stats, etc.)-->
+<!-- (You can embed dynamic stats using tools like GitHub Readme Stats, etc.)
+## 📈 GitHub Stats & Activity
+-->
