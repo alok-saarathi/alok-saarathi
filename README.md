@@ -60,9 +60,15 @@ I’m a **Django Backend Developer** @ Saarathi-finanace with a passion for buil
 -->
 ---
 
+## 🤝 Connect with Me
+
+- 📧 Email: alok.intern@saarathifinance.com  
+- 💼 LinkedIn: [linkedin.com/in/alok-choudhary-9465401ab/](https://www.linkedin.com/in/alok-choudhary-9465401ab/)  
+- 🌐 Portfolio: [alok-nine.vercel.app/](https://alok-nine.vercel.app/)  
+
+
 ## 📈 GitHub Stats & Activity
 
 <!--> (You can embed dynamic stats using tools like GitHub Readme Stats, etc.)-->
-
 
 
