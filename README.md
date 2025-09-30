@@ -17,20 +17,18 @@ https://github.com/alok-saarathi/alok-saarathi/edit/main/README.md
 | Version Control & Workflow | Git, GitHub, Branching Strategies (Git Flow / Trunk) |
 -->
 
-
 # Hi there, I’m Alok 👋
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-<div style="flex: 1; padding-right: 20px;">
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150"/>
+</div>
+<div style="flex: 1; padding-left: 20px;">
 
 I’m a **Django Backend Developer** with expertise in building scalable, secure, and efficient web applications.  
 I specialize in designing RESTful APIs, optimizing backend performance, and ensuring robust database interactions.
 
-</div>
-
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300"/>
 </div>
 
 </div>
@@ -73,13 +71,10 @@ I specialize in designing RESTful APIs, optimizing backend performance, and ensu
 
 ## 🤝 Connect with Me
 
-- 📧 Email: alok.intern@saarathifinance.com  
+- 📧 Email: <alok.intern@saarathifinance.com>  
 - 💼 LinkedIn: [linkedin.com/in/alok-choudhary-9465401ab/](https://www.linkedin.com/in/alok-choudhary-9465401ab/)  
 - 🌐 Portfolio: [alok-nine.vercel.app/](https://alok-nine.vercel.app/)  
-
 
 ## 📈 GitHub Stats & Activity
 
 <!--> (You can embed dynamic stats using tools like GitHub Readme Stats, etc.)-->
-
-
