@@ -1,6 +1,6 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **alok-saarathi/alok-saarathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+| Testing & Quality | pytest, coverage, flake8, Black |
+| Version Control & Workflow | Git, GitHub, Branching Strategies (Git Flow / Trunk) |
 -->
 
 
-# Hi there, I’m [Your Name] 👋
+# Hi there, I’m Alok 👋
 
-I’m a **Django Backend Developer** with a passion for building scalable, robust web applications and APIs. I have experience working in production environments, designing RESTful services, and optimizing performance.
+I’m a **Django Backend Developer** @ Saarathi-finanace with a passion for building scalable, robust web applications and APIs. I have experience working in production environments, designing RESTful services, and optimizing performance.
 
 ---
 
@@ -28,11 +30,9 @@ I’m a **Django Backend Developer** with a passion for building scalable, robus
 |-------|------------------------|
 | Backend | Python, Django, Django REST Framework |
 | Database | PostgreSQL, MySQL |
-| Caching / Messaging | Redis, Celery, RabbitMQ |
-| DevOps / Hosting | Docker, Kubernetes (k8s), AWS, Nginx, Gunicorn |
-| Testing & Quality | pytest, coverage, flake8, Black |
-| CI / CD | GitHub Actions, Jenkins, GitLab CI |
-| Version Control & Workflow | Git, GitHub, Branching Strategies (Git Flow / Trunk) |
+| Caching / Messaging | Redis, Celery |
+| DevOps / Hosting | Docker, Kubernetes (k8s), AWS |
+| CI / CD | GitHub Actions |
 
 ---
 
@@ -50,14 +50,14 @@ I’m a **Django Backend Developer** with a passion for building scalable, robus
 ## 📂 Projects
 
 > Below are a few highlighted projects. Full list is available in my [GitHub repositories](https://github.com/your_username).
-
+<!--
 | Project | Description |
 |--------|-------------|
 | **Project A** | A Django REST API for **…** (features, scope) |
 | **Project B** | Microservice architecture for **…**, implemented with Django + Celery |
 | **Project C** | Real-time chat system using Django Channels |
 | **Project D** | E-commerce backend: order management, payments, inventory |
-
+-->
 ---
 
 ## 📈 GitHub Stats & Activity
