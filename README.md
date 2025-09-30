@@ -19,18 +19,15 @@ https://github.com/alok-saarathi/alok-saarathi/edit/main/README.md
 
 # Hi there, I’m Alok 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<!-- <div style="display: flex; align-items: center; justify-content: space-between;"> -->
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="250"/>
 </div>
-<div style="flex: 1; padding-left: 20px;">
+<div style="flex: 1; padding-left: 20px;" align="center">
 
 I’m a **Django Backend Developer** with expertise in building scalable, secure, and efficient web applications.  
 I specialize in designing RESTful APIs, optimizing backend performance, and ensuring robust database interactions.
-
-</div>
-
 </div>
 
 ## 🛠️ Tech Stack & Tools
